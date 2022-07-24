@@ -277,7 +277,7 @@ span{
 	align-items: center;
 	justify-content: center;
 	background-color:var(--text-color1);
-	transition: all 0.7s ease;
+	transition: all 0.4s ease;
 	text-decoration: none;
  }
  .container-case:hover .hover {
